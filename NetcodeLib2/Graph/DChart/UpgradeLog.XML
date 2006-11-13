@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="NPlot">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\NPlot.sln">
+</Property><Property Name="Date" Value="20 октября 2006 г.">
+</Property><Property Name="Time" Value="19:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NPlot.sln" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlot.sln">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="NPlot.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlot.csproj">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="AdapterUtils.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\AdapterUtils.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="ArrowItem.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\ArrowItem.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="AxesConstraint.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\AxesConstraint.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Axis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Axis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="BarPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\BarPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="BasePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\BasePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="BaseSequencePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\BaseSequencePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Bitmap.PlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Bitmap.PlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="CandlePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\CandlePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="DateTimeAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\DateTimeAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="FilledRegion.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\FilledRegion.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Grid.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Grid.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="HistogramPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\HistogramPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="HorizontalLine.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\HorizontalLine.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="IDrawable.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\IDrawable.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="IGradient.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\IGradient.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="ImagePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\ImagePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="IPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\IPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="IPlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\IPlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="ISequencePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\ISequencePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="ISurface.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\ISurface.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="ITransform2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\ITransform2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LabelAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LabelAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LabelPointPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LabelPointPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Legend.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Legend.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LegendBase.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LegendBase.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LinearAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LinearAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LinearGradient.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LinearGradient.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LinePlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LinePlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="LogAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\LogAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Marker.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Marker.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="MarkerItem.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\MarkerItem.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="NPlotException.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotException.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PageAlignedPhysicalAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PageAlignedPhysicalAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PhysicalAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PhysicalAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PiAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PiAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PointD.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PointD.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="PointPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\PointPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="RectangleBrushes.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\RectangleBrushes.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="RectangleD.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\RectangleD.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="SequenceAdapter.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\SequenceAdapter.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="StartStep.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\StartStep.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="StepGradient.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\StepGradient.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="StepPlot.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\StepPlot.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="TextItem.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\TextItem.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="TradingDateTimeAxis.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\TradingDateTimeAxis.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Transform2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Transform2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Utils.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="VerticalLine.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\VerticalLine.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Web.Design.PlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Web.Design.PlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Web.PlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Web.PlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Windows.PlotSurface2D.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Windows.PlotSurface2D.cs">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="changelog.txt" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\changelog.txt">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="icon.ico" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\icon.ico">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="Windows.PlotSurface2D.resx" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\Windows.PlotSurface2D.resx">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="NPlot.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NPlot" Source="NPlot.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="NPlotDemo" Source="..\demos\cs\NPlotDemo.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\NPlotDemo.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\NPlotDemo.csproj">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\FinancialDemo.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\FinancialDemo.cs">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\MenuForm.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\MenuForm.cs">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\PlotSurface2DDemo.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\PlotSurface2DDemo.cs">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\Tests\AxisTestsForm.cs" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\Tests\AxisTestsForm.cs">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\App.ico" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\App.ico">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\FinancialDemo.resx" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\FinancialDemo.resx">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\MenuForm.resx" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\MenuForm.resx">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\PlotSurface2DDemo.resx" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\PlotSurface2DDemo.resx">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\resources\asx_jbh.xml" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\resources\asx_jbh.xml">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\resources\light.wav" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\resources\light.wav">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\resources\pattern01.jpg" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\resources\pattern01.jpg">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\Tests\AxisTestsForm.resx" Description="File successfully backed up as C:\Documents and Settings\Victor\Рабочий стол\NPlot-0.9.9.2\lib\Backup\NPlotDemo\Tests\AxisTestsForm.resx">
+</Event><Event ErrorLevel="0" Project="NPlotDemo" Source="..\demos\cs\NPlotDemo.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="NPlotDemo" Source="..\demos\cs\NPlotDemo.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="NPlot.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NPlot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NPlot" Source="NPlot.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

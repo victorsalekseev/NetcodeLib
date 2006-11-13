@@ -1,0 +1,9 @@
+bin\Debug\Sample.exe
+bin\Debug\Sample.pdb
+bin\Debug\CryptoArch.dll
+bin\Debug\CryptoArch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sample.MainForm.resources
+obj\Debug\CryptoArch_UseDemo.csproj.GenerateResource.Cache
+obj\Debug\Sample.exe
+obj\Debug\Sample.pdb
