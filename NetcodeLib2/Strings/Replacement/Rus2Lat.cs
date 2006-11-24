@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace Netcode.Strings.Replacement
 {
-    class Rus2Lat
+    public class Rus2Lat
     {
         /// <summary>
         /// Транслитерация

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Netcode.Sound
 {
-    class Sound
+    public class Sound
     {
         #region Звуки
 

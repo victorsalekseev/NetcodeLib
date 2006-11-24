@@ -7,9 +7,9 @@ using System.Drawing;
 
 namespace Netcode.Messages
 {
-    class BallonTips
+    public class BallonTips
     {
-        private void ShowErrMitSound(string mess, string wavfile)
+        public void ShowErrMitSound(string mess, string wavfile)
         {
             Netcode.Sound.Sound.SoundHelp sh = new Netcode.Sound.Sound.SoundHelp();
             sh.PlayWAV(wavfile, false, true);

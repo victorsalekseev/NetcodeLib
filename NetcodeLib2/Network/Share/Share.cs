@@ -8,7 +8,7 @@ namespace Netcode.Network.Share
     /// <summary>
     /// Класс для работы с общими ресурсами
     /// </summary>
-    class Share
+    public class Share
     {
         /// <summary>
         /// Делаем папку общей

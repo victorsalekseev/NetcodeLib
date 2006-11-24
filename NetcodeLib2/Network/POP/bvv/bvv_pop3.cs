@@ -43,7 +43,7 @@ namespace Netcode.Network.POP.bvv.Pop3
 
 		private System.Windows.Forms.ProgressBar progressBar1;
 		private System.Windows.Forms.Button butCancel;
-        private System.ComponentModel.IContainer components;
+        private System.ComponentModel.IContainer components = null;
 
 		public Pop3(string pop3server, int port, string login, string passwd)
 		{

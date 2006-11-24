@@ -11,7 +11,7 @@ namespace Netcode.Messages
         /// <summary>
         /// Класс показа окошек с ProgrssBar в отдельных тредах
         /// </summary>
-        class Wait
+    public class Wait
         {
 
             Form fn = new Form();
@@ -87,7 +87,7 @@ namespace Netcode.Messages
     /// <summary>
     /// Класс показа окошек с ProgrssBar в отдельных тредах
     /// </summary>
-    class WaitTime
+    public class WaitTime
     {
 
         Form fn = new Form();

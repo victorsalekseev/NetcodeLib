@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Netcode.db.Query
 {
-    class Query
+    public class Query
     {
         /// <summary>
         /// Запрос в базу данных
