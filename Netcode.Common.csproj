@@ -1,0 +1,356 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E6D0C833-DCAF-4808-BCC7-0F33C9432C5A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Netcode.Common</RootNamespace>
+    <AssemblyName>Netcode.Common</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AT\ATGSM.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Calc\Date.cs" />
+    <Compile Include="Calc\Digit.cs" />
+    <Compile Include="Calc\File.cs" />
+    <Compile Include="Compress\LZMA\Common\CommandLineParser.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Common\CRC.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Common\InBuffer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Common\OutBuffer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZMA\LzmaBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZMA\LzmaDecoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZMA\LzmaEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZ\IMatchFinder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZ\LzBinTree.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZ\LzInWindow.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\LZ\LzOutWindow.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\RangeCoder\RangeCoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\RangeCoder\RangeCoderBit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\Compress\RangeCoder\RangeCoderBitTree.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\ICoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Compress\LZMA\MyWrapper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\dbPagedControl\MSQGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\dbPagedControl\MSQGrid.Designer.cs">
+      <DependentUpon>MSQGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\dbPagedControl\WrDataGridView.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\exComboBox\exComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\exDateTimePicker\exDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\exLabelText\LabelText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\exLabelText\LabelText.Designer.cs">
+      <DependentUpon>LabelText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\exListView\MessageList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\exListView\MessageList.Designer.cs">
+      <DependentUpon>MessageList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FileTreeExplorer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\FileTreeExplorer.Designer.cs">
+      <DependentUpon>FileTreeExplorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\HtmlEditor\HtmlEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\HtmlEditor\HtmlEditor.Designer.cs">
+      <DependentUpon>HtmlEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InputUsed\InputUsed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\InputUsed\InputUsed.Designer.cs">
+      <DependentUpon>InputUsed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ProcessConsole\ProcessConsole.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ProcessConsole\ProcessConsole.Designer.cs">
+      <DependentUpon>ProcessConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TextBoxLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TextBoxLog.Designer.cs">
+      <DependentUpon>TextBoxLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crypt\Crypt.cs" />
+    <Compile Include="Crypt\Action\FormAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crypt\Action\FormAction.Designer.cs">
+      <DependentUpon>FormAction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crypt\Action\FormPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crypt\Action\FormPwd.Designer.cs">
+      <DependentUpon>FormPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FolderTreeExplorer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\FolderTreeExplorer.Designer.cs">
+      <DependentUpon>FolderTreeExplorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TextBoxSelectFolder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TextBoxSelectFolder.Designer.cs">
+      <DependentUpon>TextBoxSelectFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File\FileMarks.cs" />
+    <Compile Include="Hashing\helper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Hashing\MD5.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Hashing\Wrapper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messages\CriticalErrors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\HauptMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\Helps.cs" />
+    <Compile Include="Messages\Messages.cs" />
+    <Compile Include="Messages\NIcon.cs" />
+    <Compile Include="Messages\Sounds.cs" />
+    <Compile Include="Messages\Waiting.cs" />
+    <Compile Include="Print\SimpleRaport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\SimpleRaport.Designer.cs">
+      <DependentUpon>SimpleRaport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Search\Search.cs" />
+    <Compile Include="Settings\ManageSetting.cs" />
+    <Compile Include="Text\EPocalipse.IFilter\ComHelper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Text\EPocalipse.IFilter\FilterLoader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Text\EPocalipse.IFilter\FilterReader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Text\EPocalipse.IFilter\IFilter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Text\FormConvertXLS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Text\FormConvertXLS.Designer.cs">
+      <DependentUpon>FormConvertXLS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Text\Parse.cs" />
+    <Compile Include="Text\Transliteration.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\dbPagedControl\MSQGrid.resx">
+      <DependentUpon>MSQGrid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\exLabelText\LabelText.resx">
+      <DependentUpon>LabelText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\exListView\MessageList.resx">
+      <DependentUpon>MessageList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\HtmlEditor\HtmlEditor.resx">
+      <DependentUpon>HtmlEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\InputUsed\InputUsed.resx">
+      <DependentUpon>InputUsed.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ProcessConsole\ProcessConsole.resx">
+      <DependentUpon>ProcessConsole.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TextBoxLog.resx">
+      <DependentUpon>TextBoxLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crypt\Action\FormAction.resx">
+      <DependentUpon>FormAction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crypt\Action\FormPwd.resx">
+      <DependentUpon>FormPwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\FileTreeExplorer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FileTreeExplorer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\FolderTreeExplorer.resx">
+      <DependentUpon>FolderTreeExplorer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TextBoxSelectFolder.resx">
+      <DependentUpon>TextBoxSelectFolder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\CriticalErrors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CriticalErrors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\HauptMessages.resx">
+      <DependentUpon>HauptMessages.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\SimpleRaport.resx">
+      <DependentUpon>SimpleRaport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Text\FormConvertXLS.resx">
+      <DependentUpon>FormConvertXLS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgs.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconRed.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconBlue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ref_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_16.png" />
+    <None Include="Resources\convert_to_xls.gif" />
+    <None Include="Resources\print_sett.png" />
+    <None Include="Resources\EditPageSett.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\undo.png" />
+    <None Include="Resources\text_underlined.png" />
+    <None Include="Resources\text_italics.png" />
+    <None Include="Resources\text_bold.png" />
+    <None Include="Resources\redo.png" />
+    <None Include="Resources\PrintHS.png" />
+    <None Include="Resources\paste.png" />
+    <None Include="Resources\link_2.png" />
+    <None Include="Resources\link.gif" />
+    <None Include="Resources\JustifyRight.gif" />
+    <None Include="Resources\JustifyLeft.gif" />
+    <None Include="Resources\JustifyFull.gif" />
+    <None Include="Resources\JustifyCenter.gif" />
+    <None Include="Resources\InsertImage.gif" />
+    <None Include="Resources\g.gif" />
+    <None Include="Resources\f1.gif" />
+    <None Include="Resources\document_into.png" />
+    <None Include="Resources\cut.png" />
+    <None Include="Resources\copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Controls\HtmlEditor\Commands.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

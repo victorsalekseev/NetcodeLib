@@ -1,0 +1,216 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Text;
+using System.Windows.Forms;
+using System.Collections;
+using System.IO;
+
+namespace Netcode.Controls
+{
+    public partial class MessageList : UserControl
+    {
+        public delegate void OnSelectItem(ListViewItem lvi);
+        /// <summary>
+        /// При выборе итема
+        /// </summary>
+        public event OnSelectItem SelectItem;
+
+        string ar = string.Empty;
+        public MessageList()
+        {
+            InitializeComponent();
+            saveFileDialog.FileName = "Сообщения программы";
+            this.Resize += new EventHandler(MessageList_Resize);
+            сохранитьКакToolStripMenuItem.Click += new EventHandler(сохранитьКакToolStripMenuItem_Click);
+            listView_trace.Click += new EventHandler(listView_trace_Click);
+        }
+
+        void listView_trace_Click(object sender, EventArgs e)
+        {
+            if (listView_trace.Items.Count > 0 && listView_trace.SelectedItems.Count>0)
+            {
+                SelectItem.Invoke(listView_trace.SelectedItems[0]);
+            }
+        }
+
+        void сохранитьКакToolStripMenuItem_Click(object sender, EventArgs e)
+        {            
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                using (StreamWriter sw = new StreamWriter(saveFileDialog.FileName, false, Encoding.UTF8))
+                {
+                    sw.Write(ar);
+                    sw.Close();
+                }
+            }
+        }
+
+        void MessageList_Resize(object sender, EventArgs e)
+        {
+            Комментарий.Width = this.Width - Время.Width - Событие.Width - 50;
+        }
+
+        /// <summary>
+        /// Очистить список
+        /// </summary>
+        public void ClearItems()
+        {
+            listView_trace.Items.Clear();
+        }
+
+        /// <summary>
+        /// Написать сообщение о добавлении
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMAdd(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.LightGreen, 0, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение о добавлении
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMAdd(string DateTime, string Event, string Comment)
+        {
+            write_lview_message(DateTime, Event, Comment, Color.LightGreen, 0, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение о запуске
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMStart(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.LightYellow, 1, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение о запуске
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMStart(string DateTime, string Event, string Comment)
+        {
+            write_lview_message(DateTime, Event, Comment, Color.LightYellow, 1, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об остановке
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMStop(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.GhostWhite, 2, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об остановке
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMStop(string DateTime, string Event, string Comment)
+        {
+            write_lview_message(DateTime, Event, Comment, Color.GhostWhite, 2, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об ошибке
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMError(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.Red, 3, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об ошибке
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMError(string DateTime, string Event, string Comment)
+        {
+            write_lview_message(DateTime, Event, Comment, Color.Red, 3, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать информационное сообщение
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMInfo(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.GhostWhite, 4, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать информационное сообщение
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMInfo(string DateTime, string Event, string Comment, Color cl)
+        {
+            write_lview_message(DateTime, Event, Comment, cl, 4, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об удачном завершении
+        /// </summary>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMSuccess(string Event, string Comment)
+        {
+            DateTime dt = DateTime.Now;
+            string d_time = dt.ToLongTimeString() + " (" + dt.ToShortDateString() + ")";
+            write_lview_message(d_time, Event, Comment, Color.DodgerBlue, 5, listView_trace);
+        }
+
+        /// <summary>
+        /// Написать сообщение об удачном завершении
+        /// </summary>
+        /// <param name="DateTime">Дата и время</param>
+        /// <param name="Event">Событие</param>
+        /// <param name="Comment">Комментарий</param>
+        public void PrintMSuccess(string DateTime, string Event, string Comment)
+        {
+            write_lview_message(DateTime, Event, Comment, Color.DodgerBlue, 5, listView_trace);
+        }
+
+        private void write_lview_message(string datetime, string events, string commment, Color cl, int indx, ListView liv)
+        {
+            ListViewItem li = new ListViewItem(datetime);
+            li.Name = commment;
+            li.SubItems.Add(events);
+            li.SubItems.Add(commment);
+
+            li.BackColor = cl;
+            li.ImageIndex = indx;
+            liv.Items.Add(li);
+            liv.Items[liv.Items.Count - 1].EnsureVisible();
+            ar += datetime + " | " + events + " | " + commment + Environment.NewLine;
+        }
+    }
+}

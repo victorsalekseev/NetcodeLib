@@ -1,0 +1,283 @@
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\bin\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\bin\Debug\Netcode.Common.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Common\obj\Debug\Netcode.Common.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\bin\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\bin\Debug\Netcode.Common.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Common\obj\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\bin\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\bin\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Necode.Common.Action.FormAction.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Remote_DCrypt.Action.FormPwd.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Common\obj\Debug\Netcode.Common.Controls.FileTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\bin\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\bin\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Necode.Common.Action.FormAction.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Remote_DCrypt.Action.FormPwd.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Netcode.Common.Controls.FileTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\bin\Netcode.Common.dll
+C:\Users\Виктор\Desktop\bin\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Necode.Common.Action.FormAction.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Remote_DCrypt.Action.FormPwd.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Netcode.Common.Controls.FileTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Netcode.Controls.FolderTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Netcode.Common.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Common\obj\Release\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\bin\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\bin\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\bin\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\bin\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Necode.Common.Action.FormAction.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Remote_DCrypt.Action.FormPwd.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Netcode.Common.Controls.FileTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Netcode.Controls.FolderTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Netcode.Common.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Common\obj\Release\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\bin\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\bin\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Necode.Common.Action.FormAction.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Remote_DCrypt.Action.FormPwd.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Netcode.Common.Controls.FileTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Netcode.Controls.FolderTreeExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Local_DCrypt.Controls.TextBoxSelectFolder.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Netcode.Common.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Common\obj\Release\Netcode.Common.pdb
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\bin\Debug\Netcode.Common.dll
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Common.dll
+C:\Documents and Settings\COMPUTER\Рабочий стол\Новая папка\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+U:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+U:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+U:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+U:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+Q:\Проекты NL3\bin\Netcode.Common.dll
+Q:\Проекты NL3\bin\Netcode.Common.pdb
+Q:\Проекты NL3\NetcodeLib3\obj\Release\ResolveAssemblyReference.cache
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.LTextBox.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.TextBoxLog.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Necode.Crypt.Action.FormAction.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Necode.Crypt.Action.FormPwd.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.FileTreeExplorer.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.FolderTreeExplorer.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.TextBoxSelectFolder.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Messages.CriticalErrors.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Messages.HauptMessages.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.Properties.Resources.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.csproj.GenerateResource.Cache
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.dll
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.pdb
+Q:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+Q:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.MSQGrid.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Controls.HtmlEditor.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.Print.SimpleRaport.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Release\Netcode.Common.Text.FormConvertXLS.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+Q:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+I:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+I:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+I:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+I:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+N:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+N:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+N:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+N:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+P:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+P:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+P:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+P:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+F:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.dll
+F:\Проекты NL3\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+F:\Проекты NL3\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.dll
+F:\Проекты NL3\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+F:\WebSrv\netcode_prj\NetcodeLib3\bin\Debug\Netcode.Common.dll
+F:\WebSrv\netcode_prj\NetcodeLib3\bin\Debug\Netcode.Common.pdb
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\ResolveAssemblyReference.cache
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.MSQGrid.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.LTextBox.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.MessageList.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.HtmlEditor.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.InputUsed.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.ProcessConsole.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxLog.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormAction.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Necode.Crypt.Action.FormPwd.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.FileTreeExplorer.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.FolderTreeExplorer.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Controls.TextBoxSelectFolder.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Messages.CriticalErrors.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Messages.HauptMessages.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.Print.SimpleRaport.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.Properties.Resources.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.Text.FormConvertXLS.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.csproj.GenerateResource.Cache
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.dll
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Debug\Netcode.Common.pdb
+F:\WebSrv\netcode_prj\bin\Netcode.Common.dll
+F:\WebSrv\netcode_prj\bin\Netcode.Common.pdb
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\ResolveAssemblyReference.cache
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.MSQGrid.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.LTextBox.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.MessageList.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.HtmlEditor.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.InputUsed.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.ProcessConsole.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.TextBoxLog.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Necode.Crypt.Action.FormAction.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Necode.Crypt.Action.FormPwd.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.FileTreeExplorer.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.FolderTreeExplorer.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Controls.TextBoxSelectFolder.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Messages.CriticalErrors.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Messages.HauptMessages.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.Print.SimpleRaport.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.Properties.Resources.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.Text.FormConvertXLS.resources
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.csproj.GenerateResource.Cache
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.dll
+F:\WebSrv\netcode_prj\NetcodeLib3\obj\Release\Netcode.Common.pdb

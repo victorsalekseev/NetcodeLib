@@ -1,7 +1,0 @@
-bin\Debug\WindowsService1.exe
-bin\Debug\WindowsService1.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\WindowsService1.exe
-obj\Debug\WindowsService1.pdb
-obj\Debug\WindowsService1.csproj.GenerateResource.Cache
-obj\Debug\WindowsService1.Service1.resources
