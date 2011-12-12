@@ -67,15 +67,12 @@ namespace Netcode.AT
             port.WriteTimeout = 5000;
             port.ReadTimeout = 5000;
 
-            //Настраиваем скорость обмена данными с телефоном - телефон не может обрабатывать данный на максимальной скорости
-            port.BaudRate = 9600;
-
             //Другие необходимые настройки - подходит для большинства телефонов - но возможно придется настраивать:
-            port.BaudRate = 9600;
+            port.BaudRate = 115200;
             port.Parity = Parity.None;
             port.DataBits = 8;
             port.StopBits = StopBits.One;
-            port.Handshake = Handshake.RequestToSend;
+            port.Handshake = Handshake.None;
             port.DtrEnable = true;
             port.RtsEnable = true;
             port.NewLine = System.Environment.NewLine;
@@ -604,8 +601,8 @@ namespace Netcode.AT
                     mess = mess.Substring(0, 160);
                 }
                 string message = string.Empty;
-                port.Write("AT+CMGF=1\r\n");//текстовый режим
-                System.Threading.Thread.Sleep(500);
+                //port.Write("AT+CMGF=1\r\n");//текстовый режим
+                //System.Threading.Thread.Sleep(500);
                 port.Write("AT+CMGS=\"" + phone + "\"," + (int)icode + "\r");//подготавливаем смс
                 if (WaitBeforeContains(">", out message))
                 {
@@ -626,8 +623,8 @@ namespace Netcode.AT
         public string SendPDUSMS()
         {
             string message = string.Empty;
-            port.Write("AT+CMGF=0" + terminator);//текстовый режим выкл
-            System.Threading.Thread.Sleep(500);
+            //port.Write("AT+CMGF=0" + terminator);//текстовый режим выкл
+            //System.Threading.Thread.Sleep(500);
             port.Write("AT+CMGS=22\r");//подготавливаем смс
             if (WaitBeforeContains(">", out message))
             {

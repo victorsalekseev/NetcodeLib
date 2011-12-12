@@ -28,8 +28,7 @@ namespace Netcode.Controls
             get { return listView_trace.Items.Count; }
         }
 
-        public 
-        string ar = string.Empty;
+        public string ar = string.Empty;
         Label _wait = new Label();
 
         public MessageList()
@@ -229,6 +228,7 @@ namespace Netcode.Controls
             write_lview_message(DateTime, Event, Comment, Color.DodgerBlue, 5, listView_trace, tag);
         }
 
+        //ListViewItem li;
         private void write_lview_message(string datetime, string events, string commment, Color cl, int indx, ListView liv, object tag)
         {
             ListViewItem li = new ListViewItem(datetime);

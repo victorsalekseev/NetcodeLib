@@ -15,10 +15,10 @@ namespace Netcode.Messages
         public HauptMessages()
         {
             this.Size = new Size(600, 197);
-            this.Text = "Сообщение";
+            this.Text = "История событий";
             this.Name = "HauptMessages";
-            TopMost = true;
-            Opacity = 100;
+            //TopMost = true;
+            Opacity = 70;
             ControlBox = true;
             FormBorderStyle = FormBorderStyle.SizableToolWindow;
 
@@ -33,28 +33,41 @@ namespace Netcode.Messages
             lv.MultiSelect = false;
             lv.Columns.Add("Время", "Время", 134);
             lv.Columns.Add("Тип", "Тип", 40);
-            lv.Columns.Add("Комментарий", "Комментарий", 394);
+            lv.Columns.Add("Комментарий", "Комментарий", 385);
         }
 
-        public void PrintMessage(string class_message, string message)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="class_message"></param>
+        /// <param name="message"></param>
+        /// <param name="auto_close">Автоматически закрыть окно через 3.5 секунды, если нет ошибок (ERROR)</param>
+        public void PrintMessage(string class_message, string message, bool auto_close)
         {
-            if (Application.OpenForms["HauptMessages"] != null)
-            {
-                ListView lbc = (ListView)Application.OpenForms["HauptMessages"].Controls["lb"];
-                ms.write_lview_message(class_message, message, Color.BlueViolet, 0, lbc);
-            }
-            else
-            {
-                this.Show();
-                ms.write_lview_message(class_message, message, Color.BlueViolet, 0, lv);
-            }
+            Color BackGroundColor = Color.BlueViolet;
 
-            if (!Regex.IsMatch(message, "ERROR", RegexOptions.IgnoreCase | RegexOptions.Singleline))
+            if (!Regex.IsMatch(message, "ERROR", RegexOptions.IgnoreCase | RegexOptions.Singleline) && auto_close)
             {
                 Timer t = new Timer();
                 t.Interval = 3500;
                 t.Enabled = true;
                 t.Tick += new EventHandler(t_Tick);                
+            }
+
+            if (Regex.IsMatch(message, "ERROR", RegexOptions.IgnoreCase | RegexOptions.Singleline))
+            {
+                BackGroundColor = Color.Red;
+            }
+
+            if (Application.OpenForms["HauptMessages"] != null)
+            {
+                ListView lbc = (ListView)Application.OpenForms["HauptMessages"].Controls["lb"];
+                ms.write_lview_message(class_message, message, BackGroundColor, 0, lbc);
+            }
+            else
+            {
+                this.Show();
+                ms.write_lview_message(class_message, message, BackGroundColor, 0, lv);
             }
         }
 
