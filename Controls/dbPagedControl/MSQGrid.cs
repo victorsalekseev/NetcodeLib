@@ -278,7 +278,7 @@ namespace Netcode.Controls
         {
             get
             {
-                return (DataTable)dataGridView_db.DataSource;
+                return (DataTable) dataGridView_db.DataSource;
             }
         }
 
@@ -321,12 +321,12 @@ namespace Netcode.Controls
                 btn_p.Enabled = true;
                 btn_f.Enabled = true;
                 int pMp = page_num * page_size;
-                string local_wqc = string.Empty;
-                string local_wqs = string.Empty;
+                string local_wqc = " where IsVisible=1 ";
+                string local_wqs = " where IsVisible=1 ";
                 if (!string.IsNullOrEmpty(_tbl_where_query))
                 {
-                    local_wqc = " where " + _tbl_where_query;
-                    local_wqs = "(" + _tbl_where_query + ") AND ";
+                    local_wqc = " where IsVisible=1 AND " + _tbl_where_query;
+                    local_wqs = " where IsVisible=1 AND (" + _tbl_where_query + ") ";
                 }               
 
                 #region Заполнение 0
@@ -365,10 +365,10 @@ namespace Netcode.Controls
 
                 string g_command = "" +
                     "SELECT " + _tbl_key_field + ", " + _tbl_select_field + " FROM      [" + _tbl_name + "] " +
-                    "WHERE " + local_wqs + "  " + _tbl_name + "." + _tbl_key_field + " IN " +
+                    local_wqs + " AND " + _tbl_name + "." + _tbl_key_field + " IN " +
                     "                    (SELECT   TOP " + page_size.ToString() + " " + _tbl_name + "." + _tbl_key_field + " " +
                     "                     FROM      [" + _tbl_name + "] " +
-                    "                     WHERE " + local_wqs + "  " + _tbl_name + "." + _tbl_key_field + " IN " +
+                                                               local_wqs + " AND " + _tbl_name + "." + _tbl_key_field + " IN " +
                     "                                         (SELECT   TOP " + pMp.ToString() + " " + _tbl_name + "." + _tbl_key_field + " " +
                     "                                          FROM      [" + _tbl_name + "] " + local_wqc + 
                     "                                          ORDER BY " + _tbl_name + "." + _tbl_key_field + ") " +
@@ -380,6 +380,11 @@ namespace Netcode.Controls
                 System.Data.DataTable topics = new System.Data.DataTable();
                 adapter_a.Fill(topics);
                 #endregion
+
+                //BindingSource binding = new BindingSource();
+                //binding.SuspendBinding();
+                //binding.DataSource = topics;
+                //binding.ResumeBinding();
                 return topics;
             }
             catch (Exception)
